@@ -1,0 +1,1 @@
+# openapispec-generator-gradle-plugin
